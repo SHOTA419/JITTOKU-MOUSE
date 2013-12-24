@@ -8,9 +8,27 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![images.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/images.jpeg)
 
-![20061222_01.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/20061222_01.jpg)
-コクヨが２００7年に発売した「レーザーポインターマウス」は、ワイヤータイプのマウスの先端部にレーザー光の出力部を設け、通常のマウスとしての操作性はそのままにレーザーポインターとしても使用できるパソコン用マウスです。年間売上目標；　2,400万円（2007年度）。
+
 
 
 ![fcb3c66e.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/fcb3c66e.jpg)
+<h2>【マウスとレーザーポインターを組み合わせる。】</h2>
+
+・レーザーポインター「LPCR200UBK（サンワサプライ）」を購入
+
+![image.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image.jpeg)
+<hr>
+・このレーザーポインターを分解するとこのように長細い形だった。（思ったより大きかった・・・）
+![image 2.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-2.jpeg)
+<hr>
+・空間の問題から、レーザーポインターはこのように組み込むことに決定。レーザーポインターのボタンはマウス右端先端にくる予定。
+
+![image 3.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-3.jpeg)
+<hr>
+
+・上写真のようにレーザーポインターを配置できるように、マウスの不要な部分を削る。（上部分・下部分ともに）
+・工具がなかったため、カッターとペンチでプラスティックカットを行った。カッターで後をつけて、ペンチでむしり取るようにすると、切ることができる。力がいる上、かなり時間を取られるので工具があった方がいいと思った。
+
+
+![image 6.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-6.jpeg)
 ---
