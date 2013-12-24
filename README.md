@@ -44,7 +44,7 @@ This document is made by [gitfab](http://gitfab.org)
 ![image 5.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-5.jpeg)
 <hr>
 ・このままではレーザーポインターのボタンが押せないので、簡易的なボタンを作る。材料はレーザーポインターについていたゴムを切って作る。
-
+![image 7.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-7.jpeg)
 
 
 <hr>
@@ -64,5 +64,5 @@ This document is made by [gitfab](http://gitfab.org)
 ・音を出したい<br>
 ・...
 
-![image 7.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-7.jpeg)
+
 ---
