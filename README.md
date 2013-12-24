@@ -42,4 +42,28 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 ![image 5.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-5.jpeg)
+<hr>
+・このままではレーザーポインターのボタンが押せないので、簡易的なボタンを作る。材料はレーザーポインターについていたゴムを切って作る。
+
+
+![image 7.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-7.jpeg)
+
+<hr>
+・作った簡易ボタンを接着剤でつけるとこうなる。
+
+
+![image 8.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-8.jpeg)
+<hr>
+・ひとまず使えるようになった。ご覧のように、カレンダーにレーザーポインターがあたっていることがわかる。
+
+
+
+![image 9.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-9.jpeg)
+<hr>
+<h2>問題点</h2>
+問題点
+・無駄にはみ出ている
+・スターウォーズらしさに欠ける
+・音を出したい
+・...
 ---
