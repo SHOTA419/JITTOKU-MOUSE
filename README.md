@@ -31,4 +31,8 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 ![image 6.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-6.jpeg)
+
+
+
+![image 3.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-3.jpeg)
 ---
