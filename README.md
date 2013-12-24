@@ -46,7 +46,6 @@ This document is made by [gitfab](http://gitfab.org)
 ・このままではレーザーポインターのボタンが押せないので、簡易的なボタンを作る。材料はレーザーポインターについていたゴムを切って作る。
 
 
-![image 7.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-7.jpeg)
 
 <hr>
 ・作った簡易ボタンを接着剤でつけるとこうなる。
@@ -59,11 +58,11 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 ![image 9.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-9.jpeg)
-<hr>
-<h2>問題点</h2>
-問題点
-・無駄にはみ出ている
-・スターウォーズらしさに欠ける
-・音を出したい
+<hr><h2>問題点</h2>
+・無駄にはみ出ている<br>
+・スターウォーズらしさに欠ける<br>
+・音を出したい<br>
 ・...
+
+![image 7.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-7.jpeg)
 ---
