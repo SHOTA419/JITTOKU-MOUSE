@@ -69,15 +69,15 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 ![th_IMG_7007.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7007.jpg)
-
+ダイソーで１０５円で購入可能。
 ![th_IMG_7009.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7009.jpg)
-
+同様の腕時計を３本・ストップウォッチ１本を買ったが写真のようにキレイに分離できるものは写真のものみだった
 ![th_IMG_7010.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7010.jpg)
-
+マウスと時計の接着には、子供の工作用の粘土を使う。ダイソーにて１０５円で購入
 ![th_IMG_7012.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7012.jpg)
-
+このように時計を設置。時計とマウスの間に粘土を挟んで形を整える。
 ![th_IMG_7013.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7013.jpg)
-
+粘土だけでは強度がないので、瞬間接着剤で粘土の周りを補強する。
 ![th_IMG_7015.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7015.jpg)
 
 
