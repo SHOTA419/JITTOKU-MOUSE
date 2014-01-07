@@ -4,10 +4,11 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 #idea-アーミーナイフ（十徳ナイフ）をモチーフにした、十徳マウスの制作
 
-クリックするたびにマウスの先端からレーザーポインターがギュインギュインと光る。
-ノリノリで作業ができる＋プレゼンにも使える。
+
 
 ![images.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/images.jpeg)
+
+
 
 
 <h2>【マウスとレーザーポインターを組み合わせる。】</h2>
@@ -88,7 +89,8 @@ This document is made by [gitfab](http://gitfab.org)
 これで完成です！
 
 
-![100201x_romanswissarmyknife.jpg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/100201x_romanswissarmyknife.jpg)
 
-![images.jpeg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/images.jpeg)
+
+
+![100201x_romanswissarmyknife.jpg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/100201x_romanswissarmyknife.jpg)
 ---
