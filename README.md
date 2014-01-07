@@ -9,9 +9,6 @@ This document is made by [gitfab](http://gitfab.org)
 ![images.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/images.jpeg)
 
 
-
-
-![fcb3c66e.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/fcb3c66e.jpg)
 <h2>【マウスとレーザーポインターを組み合わせる。】</h2>
 
 ・レーザーポインター「LPCR200UBK（サンワサプライ）」を購入
@@ -97,10 +94,6 @@ This document is made by [gitfab](http://gitfab.org)
 ![th_IMG_7023.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7023.jpg)
 
 ![IMG_7006.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7006.JPG)
-
-![images.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/images.jpeg)
-
-![images.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/images.jpeg)
 
 ![th_IMG_7006.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7006.jpg)
 ---
