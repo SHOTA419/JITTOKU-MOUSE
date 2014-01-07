@@ -64,5 +64,14 @@ This document is made by [gitfab](http://gitfab.org)
 ・音を出したい<br>
 ・...
 
+<HR>
 
+
+
+
+![IMG_7006.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7006.JPG)
+
+![IMG_7007.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7007.JPG)
+
+![IMG_7009.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7009.JPG)
 ---
