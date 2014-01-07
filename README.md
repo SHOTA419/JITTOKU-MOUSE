@@ -5,22 +5,20 @@ This document is made by [gitfab](http://gitfab.org)
 #idea-アーミーナイフ（十徳ナイフ）をモチーフにした、十徳マウスの制作
 
 
-
 ![images.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/images.jpeg)
 
-<h2>&lt;アーミーナイフの歴史&gt;</h2>
+<h2><アーミーナイフの歴史></h2>
 19世紀末、国民皆兵制をとるスイスで、今日のビクトリノックスやウェンガーがスイス軍の装備として製造を開始したのが発祥である。今日でも圧倒的なシェア・高品質を誇る両社の製品が世界的によく知られており、「スイス・アーミーナイフ」と呼ばれている。なお、このウェンガーは2005年にビクトリノックスの傘下となっている。
 軍隊向けの製品では、糧食を食べるためのナイフ・缶切り・栓抜き、小銃の分解整備など装備のメンテナンスに使用するドライバーやリーマーなどの機能がついたものが一般的であり、軍隊生活において必要となる工具を可能な限りコンパクトに持ち運べるようになっている。さらには、古代ローマの遺物と見られるものの中に、今日販売されている製品によく似た物が見られる。
-![100201x_romanswissarmyknife.jpg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/100201x_romanswissarmyknife.jpg)
 
-<h2>&lt;コンセプト&gt;</h2>
+<H2><コンセプト></H2>
 十徳ナイフをモチーフにした、パソコン生活において必要となる道具を可能な限りコンパクトに持ち運ぶことができる十徳マウスを制作する。
 　
-<h2>&lt;機能&gt;</h2>
-1.マウス
-2.レーザーポインター
-3.メジャー
-4.時計
+<H2>機能</H2>
+1.マウス<br>
+2.レーザーポインター<br>
+3.メジャー<br>
+4.時計<br>
 ...AND MORE
 <h2>【マウスとレーザーポインターを組み合わせる。】</h2>
 
@@ -99,17 +97,4 @@ This document is made by [gitfab](http://gitfab.org)
 ![th_IMG_7023.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7023.jpg)
 これで完成です！
 
-...ですが、これではまだ十徳ではなく、四徳です...。
-
-パソコン周りの生活が便利になるような、残り六徳分のアイデアを募集中！
-
-
-
-
-
-
-
-![images.jpeg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/images.jpeg)
-
-![image.jpeg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/image.jpeg)
 ---
