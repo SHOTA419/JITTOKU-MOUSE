@@ -52,8 +52,6 @@ This document is made by [gitfab](http://gitfab.org)
 <hr>
 ・ひとまず使えるようになった。ご覧のように、カレンダーにレーザーポインターがあたっていることがわかる。
 
-
-
 ![image 9.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-9.jpeg)
 
 
@@ -84,12 +82,10 @@ This document is made by [gitfab](http://gitfab.org)
 ![th_IMG_7018.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7018.jpg)
 スプレーで色をつけるために、色を塗りたくない部分をサランラップで巻きます。さらに、時計など、細かな部分で色を塗りたくないところには、紙粘土を詰めました。
 ![th_IMG_7019.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7019.jpg)
-
+色はつやありのレッドにしました。白×赤でスイスの老舗アーミーナイフブランド、ビクトリノックスをイメージしました。
 ![th_IMG_7020.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7020.jpg)
-
+外に出て、スプレーを巻きます。ムラにならないように気をつけましょう。
 ![th_IMG_7023.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7023.jpg)
+これで完成です！
 
-![IMG_7006.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7006.JPG)
-
-![th_IMG_7006.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7006.jpg)
 ---
