@@ -89,4 +89,10 @@ This document is made by [gitfab](http://gitfab.org)
 ![th_IMG_7017.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7017.jpg)
 
 ![th_IMG_7018.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7018.jpg)
+
+![th_IMG_7019.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7019.jpg)
+
+![th_IMG_7020.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7020.jpg)
+
+![th_IMG_7023.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7023.jpg)
 ---
