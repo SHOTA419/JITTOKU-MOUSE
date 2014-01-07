@@ -2,7 +2,8 @@
 ## sfc2013-design-strategy   
 This document is made by [gitfab](http://gitfab.org)
 ---
-#idea-スターウォーズの戦闘機マウス
+#idea-アーミーナイフ（十徳ナイフ）をモチーフにした、十徳マウスの制作
+
 クリックするたびにマウスの先端からレーザーポインターがギュインギュインと光る。
 ノリノリで作業ができる＋プレゼンにも使える。
 
@@ -59,7 +60,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 
-
+<h2>【マウスと時計を組み合わせる。】</h2>
 
 
 ![th_IMG_7007.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7007.jpg)
@@ -72,13 +73,15 @@ This document is made by [gitfab](http://gitfab.org)
 このように時計を設置。時計とマウスの間に粘土を挟んで形を整える。
 ![th_IMG_7013.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7013.jpg)
 粘土だけでは強度がないので、瞬間接着剤で粘土の周りを補強する。
+
+<h2>【マウスとメジャーを組み合わせる。】</h2>
 ![th_IMG_7015.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7015.jpg)
 メジャーを購入（東急ハンズ/750円）。メジャーのさきっちょの金属はマイナスドライバーで丁寧に外します。
 
 ![th_IMG_7015.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7015.jpg)
 瞬間接着剤で15CM分止めましょう
 ![th_IMG_7017.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7017.jpg)
-
+<h2>【マウスを塗装する】</h2>
 ![th_IMG_7018.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7018.jpg)
 スプレーで色をつけるために、色を塗りたくない部分をサランラップで巻きます。さらに、時計など、細かな部分で色を塗りたくないところには、紙粘土を詰めました。
 ![th_IMG_7019.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7019.jpg)
