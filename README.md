@@ -56,11 +56,7 @@ This document is made by [gitfab](http://gitfab.org)
 ![image 9.jpeg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/image-9.jpeg)
 
 
-<hr>
-
-
-
-<h2>【マウスと時計を組み合わせる。】</h2>
+<hr><h2>【マウスと時計を組み合わせる。】</h2>
 
 
 ![th_IMG_7007.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7007.jpg)
@@ -91,4 +87,8 @@ This document is made by [gitfab](http://gitfab.org)
 ![th_IMG_7023.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7023.jpg)
 これで完成です！
 
+
+![100201x_romanswissarmyknife.jpg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/100201x_romanswissarmyknife.jpg)
+
+![images.jpeg](https://raw.github.com/SHOTA419/JITTOKU-MOUSE/master/gitfab/resources/images.jpeg)
 ---
