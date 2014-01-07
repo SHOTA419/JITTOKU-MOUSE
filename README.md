@@ -64,14 +64,21 @@ This document is made by [gitfab](http://gitfab.org)
 ・音を出したい<br>
 ・...
 
-<HR>
+<hr>
 
 
 
 
-![IMG_7006.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7006.JPG)
 
-![IMG_7007.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7007.JPG)
+![th_IMG_7006.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7006.jpg)
 
-![IMG_7009.JPG](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/IMG_7009.JPG)
+![th_IMG_7007.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7007.jpg)
+
+![th_IMG_7009.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7009.jpg)
+
+![th_IMG_7010.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7010.jpg)
+
+![th_IMG_7012.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7012.jpg)
+
+![th_IMG_7013.jpg](https://raw.github.com/SHOTA419/open-source-mouse/master/gitfab/resources/th_IMG_7013.jpg)
 ---
